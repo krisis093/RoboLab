@@ -1,0 +1,13 @@
+ELEMENT                            #ILOSC
+###############################################
+arduino                            #1
+kabel usb typu B - usb typu A      #2
+shield na silniki                  #1
+plytka stykowa i kable             #1
+czujnik cisnienia                  #1
+czujnik temperatury                #1
+fototranzystory                    #1
+rezystory                          #x
+diody LED                          #x
+przyciski			   #x
+silniki krokowe			   #2
